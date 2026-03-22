@@ -1,0 +1,15 @@
+C:\Users\soypa\OneDrive\Escritorio\Tecnologia en desarrollo de software\segundo semestre\herramientas de programacion dos\actividades\GestionInstitucion\bin\Debug\net10.0\GestionInstitucion.exe
+C:\Users\soypa\OneDrive\Escritorio\Tecnologia en desarrollo de software\segundo semestre\herramientas de programacion dos\actividades\GestionInstitucion\bin\Debug\net10.0\GestionInstitucion.deps.json
+C:\Users\soypa\OneDrive\Escritorio\Tecnologia en desarrollo de software\segundo semestre\herramientas de programacion dos\actividades\GestionInstitucion\bin\Debug\net10.0\GestionInstitucion.runtimeconfig.json
+C:\Users\soypa\OneDrive\Escritorio\Tecnologia en desarrollo de software\segundo semestre\herramientas de programacion dos\actividades\GestionInstitucion\bin\Debug\net10.0\GestionInstitucion.dll
+C:\Users\soypa\OneDrive\Escritorio\Tecnologia en desarrollo de software\segundo semestre\herramientas de programacion dos\actividades\GestionInstitucion\bin\Debug\net10.0\GestionInstitucion.pdb
+C:\Users\soypa\OneDrive\Escritorio\Tecnologia en desarrollo de software\segundo semestre\herramientas de programacion dos\actividades\GestionInstitucion\obj\Debug\net10.0\GestionInstitucion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soypa\OneDrive\Escritorio\Tecnologia en desarrollo de software\segundo semestre\herramientas de programacion dos\actividades\GestionInstitucion\obj\Debug\net10.0\GestionInstitucion.AssemblyInfoInputs.cache
+C:\Users\soypa\OneDrive\Escritorio\Tecnologia en desarrollo de software\segundo semestre\herramientas de programacion dos\actividades\GestionInstitucion\obj\Debug\net10.0\GestionInstitucion.AssemblyInfo.cs
+C:\Users\soypa\OneDrive\Escritorio\Tecnologia en desarrollo de software\segundo semestre\herramientas de programacion dos\actividades\GestionInstitucion\obj\Debug\net10.0\GestionInstitucion.csproj.CoreCompileInputs.cache
+C:\Users\soypa\OneDrive\Escritorio\Tecnologia en desarrollo de software\segundo semestre\herramientas de programacion dos\actividades\GestionInstitucion\obj\Debug\net10.0\GestionInstitucion.sourcelink.json
+C:\Users\soypa\OneDrive\Escritorio\Tecnologia en desarrollo de software\segundo semestre\herramientas de programacion dos\actividades\GestionInstitucion\obj\Debug\net10.0\GestionInstitucion.dll
+C:\Users\soypa\OneDrive\Escritorio\Tecnologia en desarrollo de software\segundo semestre\herramientas de programacion dos\actividades\GestionInstitucion\obj\Debug\net10.0\refint\GestionInstitucion.dll
+C:\Users\soypa\OneDrive\Escritorio\Tecnologia en desarrollo de software\segundo semestre\herramientas de programacion dos\actividades\GestionInstitucion\obj\Debug\net10.0\GestionInstitucion.pdb
+C:\Users\soypa\OneDrive\Escritorio\Tecnologia en desarrollo de software\segundo semestre\herramientas de programacion dos\actividades\GestionInstitucion\obj\Debug\net10.0\GestionInstitucion.genruntimeconfig.cache
+C:\Users\soypa\OneDrive\Escritorio\Tecnologia en desarrollo de software\segundo semestre\herramientas de programacion dos\actividades\GestionInstitucion\obj\Debug\net10.0\ref\GestionInstitucion.dll
